@@ -1,0 +1,15 @@
+git config --global user.name "Seu nome"
+git config --global user.email "email@"
+
+git init    para iniciar
+git add.    para adicionar 
+git status  mostra o status
+git diff "nome do arquivo"   diz o que foi alterado, para sair aperte o botão (Q) de quit-saida
+git add "nome do arquivo"    confirma as alterações
+git commit -m "Tradução do menu lateral"     vai persistir essas alterações- e comentar o que voce fez
+git log     vai mostrar todos os commits que tem no projeto
+
+
+git branch  			ver o ramo que vc está e os que existem, que foram criados
+git branch session-about	 cria um ramo novo			(session-about) seria o nome do ramo que vc definiu
+git checkout session-about       Para entrar nesse ramo, para poder trabalhar nele
