@@ -1,0 +1,10 @@
+O que é Versionamento de Código? O versionamento de código, também conhecido como controle
+ de versão, é uma prática que consiste em acompanhar e registrar todas as alterações feitas
+ nos arquivos de código-fonte de um projeto ao longo do tempo.
+
+git- sistema de controle de versões
+
+Plataformas baseadas em Git
+	gitHub-
+	giLab-plataforma livre, consegue baixar o codigo deles e usar na empresa.ficaria sua propria plataforma de versionamento de codigo e subir no seu proprio servidor.
+	Bitbucket-
